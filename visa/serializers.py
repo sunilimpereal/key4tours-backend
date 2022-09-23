@@ -51,6 +51,7 @@ class VisaSerializer(serializers.ModelSerializer):
             'documents_required',
             'description',
             'tags',
+            'image',
             'price_categories'
         ]
 

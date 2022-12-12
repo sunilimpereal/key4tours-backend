@@ -12,3 +12,4 @@ pillow
 html5lib
 Drf-writable-nested
 importlib-resources
+stripe

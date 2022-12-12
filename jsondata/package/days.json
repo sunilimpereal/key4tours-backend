@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "day": "Day",
+      "title": "Title",
+      "subtitle1": "Subtitle1",
+      "subtitle2": "Subtitle2",
+      "description1": "Description1",
+      "description2": "Description2",
+      "image": "/media/Itenary%20Images/home-hero-2.jpg",
+      "itinerary": 1
+    },
+    {
+      "id": 2,
+      "day": "day1",
+      "title": "day1",
+      "subtitle1": "Subtitle1",
+      "subtitle2": "Subtitle2",
+      "description1": "Arrival\r\nHotel\r\nDhow Cruise Creek",
+      "description2": "",
+      "image": "/media/Itenary%20Images/dubail.jpg",
+      "itinerary": 10
+    },
+    {
+      "id": 3,
+      "day": "Dubai  day 2",
+      "title": "day 2",
+      "subtitle1": "Subtitle1",
+      "subtitle2": "heading 2",
+      "description1": "Half Day Dubai City Tour\r\nBurj Khalifa 124th Floor Non-Prime time\r\nDubai Mall + Musical Fountain Show + Laser Show on Burj khalifa",
+      "description2": "",
+      "image": "/media/Itenary%20Images/dubail_g2C67NN.jpg",
+      "itinerary": 10
+    },
+    {
+      "id": 4,
+      "day": "Dubai day 3",
+      "title": "day 3",
+      "subtitle1": "Subtitle1",
+      "subtitle2": "Subtitle2",
+      "description1": "Morning Free\r\nRed Dune Desert Safari + Live Entertainment + BBQ Dinner",
+      "description2": "",
+      "image": "/media/Itenary%20Images/images.jfif",
+      "itinerary": 10
+    },
+    {
+      "id": 5,
+      "day": "Dubai  day 4",
+      "title": "day 4",
+      "subtitle1": "Subtitle1",
+      "subtitle2": "Subtitle2",
+      "description1": "Departure",
+      "description2": "",
+      "image": "/media/Itenary%20Images/images_B9sLXPV.jfif",
+      "itinerary": 10
+    }
+  ]

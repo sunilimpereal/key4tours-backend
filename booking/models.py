@@ -18,6 +18,7 @@ class HolidayBooking(models.Model):
     payment_id        = models.CharField(max_length=255)
     start_date        = models.DateTimeField()
     end_date          = models.DateTimeField()
+    grand_total          = models.DecimalField(decimal_places=2,max_digits=12,null=True)
 
     def __str__(self):
         return self.number

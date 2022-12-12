@@ -1,0 +1,209 @@
+[
+    {
+      "id": 1,
+      "name": "Name",
+      "end_date": "2022-07-07T00:00:00Z",
+      "start_date": "2022-07-13T00:00:00Z",
+      "description": "Description",
+      "inclusions": "Inclusions",
+      "exclusions": "Exclusions",
+      "amenities": [
+        {
+          "id": 1,
+          "name": "Name",
+          "description": "Description",
+          "icon": "/media/icons/home-hero1-bg-ncp.png"
+        }
+      ],
+      "days": [
+        {
+          "id": 1,
+          "day": "Day",
+          "title": "Title",
+          "subtitle1": "Subtitle1",
+          "subtitle2": "Subtitle2",
+          "description1": "Description1",
+          "description2": "Description2",
+          "image": "/media/Itenary%20Images/home-hero-2.jpg",
+          "itinerary": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Armenia  3 Nights / 4 Days",
+      "end_date": "2022-07-04T07:15:58Z",
+      "start_date": "2022-07-10T00:00:00Z",
+      "description": "Description",
+      "inclusions": "Accomodation in hotel 3 nights\t\t\t\r\nBreakfasts\t\t\t\r\nTransfer airport- hotel – airport\t\t\t\r\nSIC tours Garni, Geghard, “Lavash” making process and to Sevan, Dilijan\t\t\t\r\nEntry tickets",
+      "exclusions": "Air Fare\t\r\nTravel Insurance \t\r\nVisa\t\r\nExtra short walking city tour on day of arrival – 50 USD.\t\r\nCovid Test USD 55",
+      "amenities": [],
+      "days": []
+    },
+    {
+      "id": 3,
+      "name": "Armenia  4 Nights / 5 Days",
+      "end_date": "2022-07-19T06:00:00Z",
+      "start_date": "2022-07-10T00:00:00Z",
+      "description": "Armenia  4 Nights / 5 Days",
+      "inclusions": "Accomodation in hotel 3 nights\t\t\t\t\t\r\nBreakfasts\t\t\t\t\t\r\nTransfer airport- hotel – airport\t\t\t\t\t\r\nSIC tours to Garni, Geghard, “Lavash” making process, Yerevan City Tour\t\t\t\t\t\r\nAreni with wine tasting, visit to Echmiadzin, Zvartnots\t\t\t\t\t\r\nvisit to Khor Virap, Noravank, Sevan Lake\t\t\t\t\t\r\nEntry tickets",
+      "exclusions": "Air Fare\t\t\t\t\r\nTravel Insurance \t\t\t\t\r\nVisa\t\t\t\t\r\nExtra short walking city tour on day of arrival – 50 USD.\t\t\t\t\r\nCovid Test USD 55",
+      "amenities": [],
+      "days": []
+    },
+    {
+      "id": 4,
+      "name": "Azerbaijan  4 Nigats / 5 Days",
+      "end_date": "2022-07-03T00:00:00Z",
+      "start_date": "2022-07-10T06:00:00Z",
+      "description": "Azerbaijan  4 Nigats / 5 Days",
+      "inclusions": "Accomodation in hotel 4 nights with BB\t\r\nTransfer airport- hotel – airport\t\r\nBaku city tour\t\r\nAbsheron peninsula Tour\t\r\nFull day trip Guba city'\t\r\nEntrance tickets (Gobustan, ateshgah, yanardag\t\r\nAll the local taxes and service fees\t\r\nEnglish speaking guide.",
+      "exclusions": "Air Fare\t\r\nTravel Insurance \t\r\nVisa\t\r\nCovid Test USD 75",
+      "amenities": [],
+      "days": []
+    },
+    {
+      "id": 5,
+      "name": "Azerbaijan 5 Nights / 6 Days",
+      "end_date": "2022-07-10T00:00:00Z",
+      "start_date": "2022-07-11T00:00:00Z",
+      "description": "Azerbaijan 5 Nights / 6 Days",
+      "inclusions": "Accomodation in hotel 5 nights with BB\t\t\t\t\t\r\n3 Nights in Baku// 2 Night in Gabala\t\t\t\t\t\r\nTransfer airport- hotel – airport\t\t\t\t\t\r\nvisit Alley of Martyrs, Highland Observation Sightseeing Park,\t\t\t\t\t\r\nCrystal Hall, Flame Towers, City Centre Fountain Square, Old City\t\t\t\t\t\r\nHeydar Aliyev Centre, Boulevard Seaside\t\t\t\t\t\r\nGabala tours with guide. Will visit Gabala City, Noghur Lake, Gabala Paradise Villages\t\t\t\t\t\r\nTufandagh Mountain SKI resort, cable ways, Disney Land, shooting centre, waterfalls, forest",
+      "exclusions": "Air Fare\t\r\nTravel Insurance \t\r\nVisa\t\r\nCovid Test USD 75",
+      "amenities": [],
+      "days": []
+    },
+    {
+      "id": 6,
+      "name": "Bulgaria 4 Nights / 5 Days",
+      "end_date": "2022-07-04T00:00:00Z",
+      "start_date": "2022-07-11T00:00:00Z",
+      "description": "Sofia , Bulgaria",
+      "inclusions": "Accomodation in hotel 4 nights with BB\t\t\r\nBreakfast\t\t\r\nTransfer airport- hotel – airport\t\t\r\nCity tour of Sofia, Pancherevo lake and waterfall  with Arabic/English driver\t\t\r\nTrip and Transfer to Vitosha mountain with telefric tickets\t\t\r\n Transfer Selected hotel –Airport Sofia\t\t\r\nEnglish speaking driver all the time of Tours",
+      "exclusions": "Air Fare\t\r\nTravel Insurance \t\r\nVisa\t\r\nCovid Test USD 75",
+      "amenities": [],
+      "days": []
+    },
+    {
+      "id": 7,
+      "name": "Bulgaria 5 Nights / 6 Days",
+      "end_date": "2022-07-31T07:43:25Z",
+      "start_date": "2022-07-17T07:43:23Z",
+      "description": "Sofia , Bulgaria",
+      "inclusions": "Accomodation in hotel 5 nights with BB\t\t\t\t\t\r\nBreakfast\t\t\t\t\t\r\nTransfer airport- hotel – airport\t\t\t\t\t\r\nCity tour of Sofia, Pancherevo lake and waterfall  with Arabic/English driver\t\t\t\t\t\r\nTrip and Transfer to Vitosha mountain with telefric tickets\t\t\t\t\t\r\n Transfer Selected hotel –Airport Sofia\t\t\t\t\t\r\nEnglish speaking driver all the time of Tours\t\t\t\t\t\r\nTrip and transfer to Kostenec waterfall and city of Plovdiv",
+      "exclusions": "Air Fare\t\r\nTravel Insurance \t\r\nVisa\t\r\nCovid Test USD 75",
+      "amenities": [],
+      "days": []
+    },
+    {
+      "id": 8,
+      "name": "Belarus 4 Nights / 5 Days",
+      "end_date": "2022-07-31T07:52:36Z",
+      "start_date": "2022-07-31T07:52:37Z",
+      "description": "Belarus 4 Nights / 5 Days",
+      "inclusions": "Accomodation in hotel 4 nights with BB\t\t\t\t\t\r\nBreakfast\t\t\t\t\t\r\nTransfer airport- hotel – airport\t\t\t\t\t\r\nEntrance fees and excursion: Minsk city tour, degustation at Komarovski market\t\t\t\t\t\r\nBelaz factory with firm souvenir, Mir Castle, Nesvizh Palace with animated performance\t\t\t\t\t\r\nSula complex with animated excursion and drakara riding, traditional lunch with excursion at the farmstead,\t\t\t\t\t\r\nEnglish-speaking guide per program \t\t\t\t\t\r\nTransport services per program (2 pax – sedan (Mercedes), 4-6 pax – Mercedes Viano, 8-15 pax – Mercedes Sprinter)\t\t\t\r\n§  Folk show with dancing master class at the farmstead: 120 USD per the group\t\t\t\r\n§  Track riding 49 USD per pax",
+      "exclusions": "Air Fare\t\r\nTravel Insurance \t\r\nVisa\t\r\nCovid Test USD 75",
+      "amenities": [],
+      "days": []
+    },
+    {
+      "id": 9,
+      "name": "Egypt 4 Nights / 5 Days",
+      "end_date": "2022-07-31T08:00:45Z",
+      "start_date": "2022-07-31T08:00:43Z",
+      "description": "Egypt 4 Nights / 5 Days",
+      "inclusions": "Accomodation in hotel 4 nights with BB\t\r\nTransfer airport- hotel – airport\t\r\nFull day visit to Giza pyramid and .\t\r\nSphinx saqqara zoser pyramid area with english speaking guide\t\r\nFull day tour to visit the Citadel with Mohamed Ali Mosque\t\r\nEgyptian Museum and Khan El Khalil Bazaars \t\r\nDrive to Alexandria by a private vehicle around\t\r\n03 hours per one way visit catacomb, Romanian theatre and Qaitbay citadel",
+      "exclusions": "Internation and domestic tickets\t\r\nTravel Insurance \t\r\nVisa to Egypt\t\r\nEntry of solar boat Museum = 10.00 USD per person\t\r\nEntry of Cheops Pyramid = 25.00 USD per person \t\r\nThe entrance of mummies room in the Egyptian Museum = 14.00 USD per person \t\r\nAll tipping for guide, drivers, representatives, restaurants, cruise \t\r\nCovid test USD70/-",
+      "amenities": [],
+      "days": []
+    },
+    {
+      "id": 10,
+      "name": "Dubai  3 Nights / 4 Days",
+      "end_date": "2022-09-20T12:01:41Z",
+      "start_date": "2022-09-20T12:01:40Z",
+      "description": "Description",
+      "inclusions": "3Nights /4 Days hotel stay with BB\t\t\t\r\nReturn Airport Transport\t\t\t\r\nHalf a day Dubai City Tour \t\t\t\r\nDhow Cruise Dinner\t\t\t\r\nDesert safari with BBQ Dinner\t\t\t\r\nBurj Khalifa at the Top\t\t\t\r\nTourism fees \t\t\t\r\n5% Vat\t\t\t\r\nAll the taxes and service fees\t\t\t\r\nAll tours & Transfers on Sharing/Private\t\t\t\r\nDriver cum tour Guide",
+      "exclusions": "Air tickets\t\t\t\r\nMeal other than mentioned above\t\t\t\r\nPersonal expenses like laundry , telephone etc\t\t\t\r\nExtra Tours if any\t\t\t\r\nUAE Visa with Travel Insurance\t\t\t\r\nSanitization cost to Hotel if tested covid19 positive",
+      "amenities": [],
+      "days": [
+        {
+          "id": 2,
+          "day": "day1",
+          "title": "day1",
+          "subtitle1": "Subtitle1",
+          "subtitle2": "Subtitle2",
+          "description1": "Arrival\r\nHotel\r\nDhow Cruise Creek",
+          "description2": "",
+          "image": "/media/Itenary%20Images/dubail.jpg",
+          "itinerary": 10
+        },
+        {
+          "id": 3,
+          "day": "Dubai  day 2",
+          "title": "day 2",
+          "subtitle1": "Subtitle1",
+          "subtitle2": "heading 2",
+          "description1": "Half Day Dubai City Tour\r\nBurj Khalifa 124th Floor Non-Prime time\r\nDubai Mall + Musical Fountain Show + Laser Show on Burj khalifa",
+          "description2": "",
+          "image": "/media/Itenary%20Images/dubail_g2C67NN.jpg",
+          "itinerary": 10
+        },
+        {
+          "id": 4,
+          "day": "Dubai day 3",
+          "title": "day 3",
+          "subtitle1": "Subtitle1",
+          "subtitle2": "Subtitle2",
+          "description1": "Morning Free\r\nRed Dune Desert Safari + Live Entertainment + BBQ Dinner",
+          "description2": "",
+          "image": "/media/Itenary%20Images/images.jfif",
+          "itinerary": 10
+        },
+        {
+          "id": 5,
+          "day": "Dubai  day 4",
+          "title": "day 4",
+          "subtitle1": "Subtitle1",
+          "subtitle2": "Subtitle2",
+          "description1": "Departure",
+          "description2": "",
+          "image": "/media/Itenary%20Images/images_B9sLXPV.jfif",
+          "itinerary": 10
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Dubai 4 Nights / 5 Days",
+      "end_date": "2022-09-20T12:23:16Z",
+      "start_date": "2022-09-20T12:23:17Z",
+      "description": "Dubai 4 Nights / 5 Days",
+      "inclusions": "4Nights /5Days hotel stay with BB\r\nReturn Airport Transport\r\nHalf a day Dubai City Tour \r\nAbu Dhabi City Tour + Sheikh Zayed Mosque\r\nDhow Cruise Dinner\r\nDesert safari with BBQ Dinner\r\nBurj Khalifa at the Top\r\nTourism fees \r\n5% Vat\r\nAll the taxes and service fees\r\nAll tours & Transfers on Sharing/Private\r\nDriver cum tour Guide",
+      "exclusions": "Air tickets\t\t\t\r\nMeal other than mentioned above\t\t\t\r\nPersonal expenses like laundry , telephone etc\t\t\t\r\nExtra Tours if any\t\t\t\r\nUAE Visa with Travel Insurance\t\t\t\r\nSanitization cost to Hotel if tested covid19 positive",
+      "amenities": [],
+      "days": []
+    },
+    {
+      "id": 12,
+      "name": "Dubai 5 Nights / 6 Days",
+      "end_date": "2022-09-21T06:24:23Z",
+      "start_date": "2022-09-21T06:24:22Z",
+      "description": "Dubai 5 Nights / 6 Days",
+      "inclusions": "5Nights /6Days hotel stay with BB\r\nReturn Airport Transport\r\nHalf a day Dubai City Tour \r\nAbu Dhabi City Tour + Sheikh Zayed Mosque\r\nAqua-Venture & Lost Chamber at The Palm Island\r\nDhow Cruise Dinner\r\nDesert safari with BBQ Dinner\r\nBurj Khalifa at the Top\r\nTourism fees \r\n5% Vat\r\nAll the taxes and service fees\r\nAll tours & Transfers on Sharing/Private\r\nDriver cum tour Guide",
+      "exclusions": "Air tickets\t\t\t\r\nMeal other than mentioned above\t\t\t\r\nPersonal expenses like laundry , telephone etc\t\t\t\r\nExtra Tours if any\t\t\t\r\nUAE Visa with Travel Insurance\t\t\t\r\nSanitization cost to Hotel if tested covid19 positive",
+      "amenities": [],
+      "days": []
+    },
+    {
+      "id": 13,
+      "name": "Dubai  6 Nights / 7 Days",
+      "end_date": "2022-09-21T06:31:18Z",
+      "start_date": "2022-09-21T06:31:16Z",
+      "description": "Dubai  6 Nights / 7 Days",
+      "inclusions": "5Nights /6Days hotel stay with BB\r\n1Nights /2Days hotel in Abu Dhabi Hotel with park access with BB\r\nReturn Airport Transport\r\nHalf a day Dubai City Tour \r\nAbu Dhabi City Tour + Sheikh Zayed Mosque\r\nAqua-Venture & Lost Chamber at The Palm Island\r\nSKI Dubai at Mall of The Emirates\r\nDhow Cruise Dinner\r\nDesert safari with BBQ Dinner\r\nBurj Khalifa at the Top\r\nTourism fees \r\n5% Vat\r\nAll the taxes and service fees\r\nAll tours & Transfers on Sharing/Private\r\nDriver cum tour Guide",
+      "exclusions": "Air tickets\t\t\t\r\nMeal other than mentioned above\t\t\t\r\nPersonal expenses like laundry , telephone etc\t\t\t\r\nExtra Tours if any\t\t\t\r\nUAE Visa with Travel Insurance\t\t\t\r\nSanitization cost to Hotel if tested covid19 positive",
+      "amenities": [],
+      "days": []
+    }
+  ]

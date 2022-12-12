@@ -1,0 +1,527 @@
+[
+    {
+      "id": 1,
+      "name": "USA",
+      "documents_required": "Original Passport.(Passport & Visa should be valid for 06 months)\r\n02 passport size photos.\r\nNOC from the Company (to be mentioned for the USA)\r\nTicket copy & Hotel Booking.\r\nLast 6 month Bank statement",
+      "description": "USA",
+      "tags": [
+        {
+          "id": 1,
+          "name": "Latest",
+          "description": "sd",
+          "show_on_home": true
+        }
+      ],
+      "image": null,
+      "price_categories": [
+        {
+          "id": 1,
+          "name": "5/10-year visa",
+          "description": "*Visa fees for\r\n• 5/10-year visa charges is AED 950 + 350",
+          "price": 950,
+          "visa": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Canada",
+      "documents_required": "Original Passport.(Passport & Visa should be valid for 06 months)\r\n02 passport size photos.\r\nNOC from the Company (to be mentioned for Canada)\r\nTicket copy & Hotel Booking.\r\nLast 6 months Bank statement.\r\nMarriage certificate.\r\nQualification details.\r\nParents and sibling’s details",
+      "description": "Canada",
+      "tags": [
+        {
+          "id": 1,
+          "name": "Latest",
+          "description": "sd",
+          "show_on_home": true
+        }
+      ],
+      "image": null,
+      "price_categories": [
+        {
+          "id": 2,
+          "name": "10-year visa",
+          "description": "10-year visa charges are AED 1100+200(USD180 for fingerprint once visa approved only",
+          "price": 1300,
+          "visa": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "UK",
+      "documents_required": "Original Passport. (Passport & Visa should be valid for 06 months)\r\n02 passport size photos.\r\nNOC from the Company (to be mention for UK)\r\nTicket copy & Hotel Booking.\r\nLast 6 month Bank statement",
+      "description": "UK",
+      "tags": [
+        {
+          "id": 1,
+          "name": "Latest",
+          "description": "sd",
+          "show_on_home": true
+        }
+      ],
+      "image": null,
+      "price_categories": [
+        {
+          "id": 3,
+          "name": "06 months",
+          "description": "06 months visa is AED 500+350",
+          "price": 850,
+          "visa": 4
+        },
+        {
+          "id": 4,
+          "name": "02 years",
+          "description": "02 years",
+          "price": 2150,
+          "visa": 4
+        },
+        {
+          "id": 5,
+          "name": "05 years",
+          "description": "05 years visa charge is AED 3150+350",
+          "price": 3500,
+          "visa": 4
+        },
+        {
+          "id": 6,
+          "name": "10 years",
+          "description": "10 years visa charges is AED 4000+350",
+          "price": 4350,
+          "visa": 4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Malaysia",
+      "documents_required": "• Original Passport & 01 Passport copy (Passport & Visa should be valid for 06 months)\r\n• 2 sets of application form filled and signed by the applicant.\r\n• No objection letter (mention salary & position)\r\n• Flight & Hotel Booking.\r\n• 05 months bank statement & Trade license copy for Directors.\r\n *Visa fees for",
+      "description": "Tourist/Business Visa - Single Entry (Indian) 65AED +150\r\nTourist/Business Visa - Multi Entry (Indian) 200AED +150\r\nTourist/Business Visa - Single Entry (China) 40AED +150\r\nTourist/Business Visa - Multi Entry (China) 80AED+150\r\nTourist/Business Visa - Single Entry (Other Nationality) 25AED +150\r\nTourist/Business Visa - Multi Entry (Other Nationality) 50AED +150\r\n\r\n(Note: Service charges & appointment booking charges by the respective VAC are excluded in the above\r\nprices mentioned)",
+      "tags": [],
+      "image": null,
+      "price_categories": [
+        {
+          "id": 7,
+          "name": "Tourist/Business Visa - Single Entry (Indian)",
+          "description": "Tourist/Business Visa - Single Entry (Indian) 65AED +150",
+          "price": 115,
+          "visa": 5
+        },
+        {
+          "id": 8,
+          "name": "Tourist/Business Visa - Multi Entry (Indian)",
+          "description": "Tourist/Business Visa - Multi Entry (Indian) 200AED +150",
+          "price": 350,
+          "visa": 5
+        },
+        {
+          "id": 9,
+          "name": "Tourist/Business Visa - Single Entry (China)",
+          "description": "Tourist/Business Visa - Single Entry (China) 40AED +150",
+          "price": 190,
+          "visa": 5
+        },
+        {
+          "id": 10,
+          "name": "Tourist/Business Visa - Multi Entry (China)",
+          "description": "Tourist/Business Visa - Multi Entry (China) 80AED+150",
+          "price": 230,
+          "visa": 5
+        },
+        {
+          "id": 11,
+          "name": "Tourist/Business Visa - Single Entry (Other Nationality)",
+          "description": "Tourist/Business Visa - Single Entry (Other Nationality) 25AED +150",
+          "price": 175,
+          "visa": 5
+        },
+        {
+          "id": 12,
+          "name": "Tourist/Business Visa - Multi Entry (Other Nationality)",
+          "description": "Tourist/Business Visa - Multi Entry (Other Nationality) 50AED +150",
+          "price": 200,
+          "visa": 5
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Singapore",
+      "documents_required": "• Original Passport & Passport copy. (Passport & Visa should be valid for 06 months)\r\n• 02 Passport size photos.(recent- 6months old)\r\n• No objection letter (mention salary & position)\r\n• Flight & Hotel bookings.\r\n• Application.",
+      "description": "Visa fees for\r\n• Visa Charges is AED 80 +150 (1 month)\r\n\r\n(Note: Service charges & appointment booking charges(if any) by the respective VAC are excluded in the\r\nabove prices mentioned)",
+      "tags": [],
+      "image": null,
+      "price_categories": [
+        {
+          "id": 13,
+          "name": "Singapore",
+          "description": "Visa fees for\r\n• Visa Charges is AED 80 +150 (1 month)",
+          "price": 230,
+          "visa": 6
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Thailand",
+      "documents_required": "• Original Passport, Passport copy & UAE visa (Passport & Visa should be valid for 06 months)\r\n• 02 passport size photos.\r\n• NOC from the company.\r\n• Flight & Hotel booking.\r\n• Application",
+      "description": "Visa Fees for\r\n• Online Appointment need to be taken before.\r\n\r\nTourist Visa - single entry 400AED +150\r\nTourist Visa - Multiple entries within 6 months 1000AED+150\r\nNon immigrant Visa - Single entry 800AED+150\r\nNon immigrant Visa - Multiple entries within 1 year 1500AED+150\r\n\r\n(Note: Service charges & appointment booking charges(if any) by the respective VAC are excluded in the\r\nabove prices mentioned)",
+      "tags": [],
+      "image": null,
+      "price_categories": [
+        {
+          "id": 14,
+          "name": "Tourist Visa - single entry",
+          "description": "Visa Fees for\r\n• Online Appointment need to be taken before.\r\n\r\nTourist Visa - single entry 400AED +150",
+          "price": 550,
+          "visa": 7
+        },
+        {
+          "id": 15,
+          "name": "Tourist Visa - Multiple entries",
+          "description": "Tourist Visa - Multiple entries within 6 months 1000AED+150",
+          "price": 1150,
+          "visa": 7
+        },
+        {
+          "id": 16,
+          "name": "Non immigrant Visa - Single entry",
+          "description": "Non immigrant Visa - Single entry 800AED+150",
+          "price": 950,
+          "visa": 7
+        },
+        {
+          "id": 17,
+          "name": "Non immigrant Visa - Multiple entries",
+          "description": "Non immigrant Visa - Multiple entries within 1 year 1500AED+150",
+          "price": 1650,
+          "visa": 7
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "China",
+      "documents_required": "TOURIST:\r\n• Passport copy & Original passport. (Passport & Visa should be valid for 06 months)\r\n• 02 passport size photos.\r\n• Flight & Hotel Booking.\r\n• No Objection letter from sponsor.\r\nFor Business Visa: Invitation letter also needed extra.",
+      "description": "Visa fees for\r\nSingle Entry 345AED +150\r\nDouble Entry 413AED + 150\r\nMultiple Entries (6 Months) 480AED +150\r\nMultiple Entries (12 Months) 615AED +150\r\n\r\n(Note: Service charges & appointment booking charges(if any) by the respective VAC are excluded in the\r\nabove prices mentioned)",
+      "tags": [],
+      "image": null,
+      "price_categories": [
+        {
+          "id": 18,
+          "name": "Single Entry - China",
+          "description": "Single Entry 345AED +150",
+          "price": 495,
+          "visa": 8
+        },
+        {
+          "id": 19,
+          "name": "Double Entry - China",
+          "description": "Double Entry 413AED + 150",
+          "price": 563,
+          "visa": 8
+        },
+        {
+          "id": 20,
+          "name": "Multiple Entries - China",
+          "description": "Multiple Entries (6 Months) 480AED +150",
+          "price": 630,
+          "visa": 8
+        },
+        {
+          "id": 21,
+          "name": "Multiple Entries (12 Months) - China",
+          "description": "Multiple Entries (12 Months) 615AED +150",
+          "price": 765,
+          "visa": 8
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Australia",
+      "documents_required": "1. Original passport.\r\n2. 2 color Photos.\r\n3. NOC letter from the company.\r\n4. 6 Month bank statements.\r\n5. Hotel booking and ticket copy (can be arranged)\r\n6. Travel Insurance. (can be arranged)\r\n7. Bio metric 300/- needs to pay there.",
+      "description": "Visa Fees:\r\n• Visitor(1a & 1b) : AED400 + 300\r\n• Visitor (Frequent traveler stream) (1c) : AED 2770 +300\r\n• Visitor (Tourist stream only – Stay upto 1year) : AED 2670 +300\r\n\r\n(Note: Service charges & appointment booking charges(if any) by the respective VAC are excluded in the\r\nabove prices mentioned)",
+      "tags": [],
+      "image": null,
+      "price_categories": [
+        {
+          "id": 22,
+          "name": "Visitor(1a & 1b) - Australia",
+          "description": "Visitor(1a & 1b) : AED400 + 300",
+          "price": 700,
+          "visa": 9
+        },
+        {
+          "id": 23,
+          "name": "Visitor (Frequent traveler stream) (1c) - Australia",
+          "description": "Visitor (Frequent traveler stream) (1c) : AED 2770 +300",
+          "price": 3070,
+          "visa": 9
+        },
+        {
+          "id": 24,
+          "name": "Visitor (Tourist stream only – Stay up to 1year) - Australia",
+          "description": "Visitor (Tourist stream only – Stay up to 1year) : AED 2670 +300",
+          "price": 3000,
+          "visa": 9
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "New Zealand",
+      "documents_required": "1. Original passport.\r\n2. 2 color Photos.\r\n3. NOC letter from the company.\r\n4. 6 Month bank statements.\r\n5. Hotel booking and ticket copy ( can be arranged)\r\n6. Travel Insurance. (can be arranged)",
+      "description": "Visa Fees:\r\n• Visitor visa 900AED + 300\r\n\r\n(Note: Service charges & appointment booking charges(if any) by the respective VAC are excluded in the\r\nabove prices mentioned)",
+      "tags": [],
+      "image": null,
+      "price_categories": [
+        {
+          "id": 25,
+          "name": "Visitor visa - NZ",
+          "description": "Visitor visa 900AED + 300",
+          "price": 1200,
+          "visa": 10
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Saudi Business Visa",
+      "documents_required": "1. Original passport. (in the passport should have at least 2 empty pages back to back)\r\n2. 2 Photos\r\n3. UAE visa profession needs to be a manager or investor.\r\n4. Invitation letter from Saudi Ministry of Foreign affairs.\r\n5. Commercial registration of Saudi Sponsor Company.\r\n6. NOC letter from UAE Company.\r\n7. Insurance (by Saudi consulate)",
+      "description": "Processing time: 3-5 working days\r\n\r\nVisa Fees\r\n• Business visa AED: 400+150\r\n• Business Visa Multiple Entry One Year AED: 400+150\r\n• Tourism AED 400+150\r\n• Tourism Multiple Entry One Year AED 400+150\r\n\r\n(Note: Service charges & appointment booking charges(if any) by the respective VAC are excluded in the\r\nabove prices mentioned)",
+      "tags": [],
+      "image": null,
+      "price_categories": [
+        {
+          "id": 26,
+          "name": "Business visa - Saudi",
+          "description": "Business visa AED: 400+150",
+          "price": 550,
+          "visa": 11
+        },
+        {
+          "id": 27,
+          "name": "Business Visa Multiple Entry - Saudi",
+          "description": "Business Visa Multiple Entry One Year AED: 400+150",
+          "price": 550,
+          "visa": 11
+        },
+        {
+          "id": 28,
+          "name": "Tourism - Saudi",
+          "description": "Tourism AED 400+150",
+          "price": 550,
+          "visa": 11
+        },
+        {
+          "id": 29,
+          "name": "Tourism Multiple Entry - Saudi",
+          "description": "Tourism Multiple Entry One Year AED 400+150",
+          "price": 550,
+          "visa": 11
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Turkey",
+      "documents_required": "• Original Passport, Passport copy & UAE visa (Passport 6 month & Visa should be valid for 03 months)\r\n• 02 passport (size photos 5x6 white background)\r\n• NOC from the company.\r\n• Bank Statement original (last 6 month)\r\n• Flight & Hotel booking( can be arranged)\r\n• Travel Insurance.",
+      "description": "Visa fees\r\n• Tourism/Business – Single Entry AED 225 +150\r\n• Tourism/Business – Double Entry AED 450+150\r\n• Tourism/Business – Multiple Entry AED 700+150\r\n\r\n(Note: Service charges & appointment booking charges(if any) by the respective VAC are excluded\r\nin the above prices mentioned)",
+      "tags": [],
+      "image": null,
+      "price_categories": [
+        {
+          "id": 30,
+          "name": "Tourism/Business – Turkey",
+          "description": "Tourism/Business – Single Entry AED 225 +150",
+          "price": 375,
+          "visa": 12
+        },
+        {
+          "id": 31,
+          "name": "Tourism/Business – Double Entry - Turkey",
+          "description": "Tourism/Business – Double Entry AED 450+150",
+          "price": 600,
+          "visa": 12
+        },
+        {
+          "id": 32,
+          "name": "Tourism/Business – Multiple Entry - Turkey",
+          "description": "Tourism/Business – Multiple Entry AED 700+150",
+          "price": 850,
+          "visa": 12
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Ghana",
+      "documents_required": "1. Original passport\r\n2. 2 pp size photo\r\n3. NOC letter from the company.\r\n4. Trade license copy.\r\n5. Invitation letter.\r\n6. Hotel booking and ticket copy ( we can arrange)\r\n7. Yellow fever certificate.",
+      "description": "Visa for Ghana\r\n• Single entry visa(3 months) AED: 600+200 (3 working days)\r\n• Multiple entry visa(6 months) AED: 800+200\r\n• Multiple entry visa (1 year) AED 1500 + 200\r\n\r\n(Note: Service charges & appointment booking charges(if any) by the respective VAC are excluded\r\nin the above prices mentioned)",
+      "tags": [],
+      "image": null,
+      "price_categories": [
+        {
+          "id": 33,
+          "name": "Single entry visa - Ghana",
+          "description": "Single entry visa(3 months) AED: 600+200 (3 working days)",
+          "price": 800,
+          "visa": 13
+        },
+        {
+          "id": 34,
+          "name": "Multiple Entry Visa - Ghana",
+          "description": "Multiple entry visa(6 months) AED: 800+200",
+          "price": 1000,
+          "visa": 13
+        },
+        {
+          "id": 35,
+          "name": "Multiple Entry Visa (1 year) - Ghana",
+          "description": "Multiple entry visa (1 year) AED 1500 + 200",
+          "price": 1700,
+          "visa": 13
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "South Africa",
+      "documents_required": "• Original Passport, Passport copy & UAE visa (Passport 6 month & Visa should be valid for 06 months)\r\n• 02 passport (size photos 5x6 white background)\r\n• NOC from the company.( salary should mentioned1)\r\n• Bank Statement original (last 3 month- original )\r\n• Flight & Hotel booking( can be arranged)\r\n• Travel Insurance ( can be arranged)",
+      "description": "Visa fees:\r\n• Tourism/Business AED 250 + 150\r\n• Long term Visa - Study visa/ visit visa dependent/Retired person visa AED 250+150\r\n• Long term Visa - General work permit AED 900+150\r\n\r\n(Note: Service charges & appointment booking charges(if any) by the respective VAC are excluded\r\nin the above prices mentioned)",
+      "tags": [],
+      "image": null,
+      "price_categories": [
+        {
+          "id": 36,
+          "name": "Tourism/Business - South Africa",
+          "description": "Tourism/Business AED 250 + 150",
+          "price": 400,
+          "visa": 14
+        },
+        {
+          "id": 37,
+          "name": "Long term Visa - South Africa",
+          "description": "Long term Visa - Study visa/ visit visa dependent/Retired person visa AED 250+150",
+          "price": 400,
+          "visa": 14
+        },
+        {
+          "id": 38,
+          "name": "Long term Visa - General work permit - South Africa",
+          "description": "Long term Visa - General work permit AED 900+150",
+          "price": 1050,
+          "visa": 14
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Russia",
+      "documents_required": "For Tourist Visa\r\n• Original Passport, Passport copy & UAE visa (Passport & Visa should be valid for 06 months)\r\n• 02 passport size photos.\r\n• NOC from the company.\r\n• Flight & Hotel booking.\r\n• Travel Insurance.\r\n\r\nPlease find the details and documents required for a Russian visa.\r\n\r\nFor Business visa\r\n\r\n1. Original Passport with UAE visa should valid for 6 months\r\n2. 2 color photo.\r\n3. NOC letter from the company.\r\n4. Trade license copy.\r\n5. Invitation letter from the company in SA\r\n6. 3 month bank statement.",
+      "description": "Visa fees: Nationality : Indian\r\nTourism fee:\r\n• Single Entry (Processing time 3-5days) AED720 + 200\r\n• Single Entry (processing time 7-10days) AED425 +200\r\n• Double Entry (Processing time 3-5days) AED 1075+200\r\n• Double Entry (Processing time 7-10days) AED 605+200",
+      "tags": [],
+      "image": null,
+      "price_categories": []
+    },
+    {
+      "id": 16,
+      "name": "Bosnia and Herzegovina",
+      "documents_required": "1. A valid passport of the applicant\r\n2. Application form (completed and signed)\r\n3. Copy of a valid UAE / Bahrain residence visa\r\n4. Copy of a round trip ticket or itinerary\r\n5. One passport size picture\r\n6. Travel insurance\r\n7. No objection letter from your company or your sponsor\r\n8. Voucher of the travel agency stating that the trip has been paid in full\r\n9. Copy of your bank statement for the last 3 months",
+      "description": "Visa fees:\r\nSingle-entry short-term visa AED: 150+150\r\nMultiple Long -term visa 90 Days AED: 300+150\r\nMultiple Long -term visa over 90 Days AED: 350 +150\r\n\r\n(Note: *Service charges & appointment booking charges(if any) by the respective VAC are excluded in the\r\nabove prices mentioned *Charges are subjected to change depending on the nationality)",
+      "tags": [],
+      "image": null,
+      "price_categories": [
+        {
+          "id": 39,
+          "name": "Single-entry - Bosnia and Herzegovina",
+          "description": "Single-entry short-term visa AED: 150+150",
+          "price": 300,
+          "visa": 16
+        },
+        {
+          "id": 40,
+          "name": "Multiple Long - Bosnia and Herzegovina",
+          "description": "Multiple Long -term visa 90 Days AED: 300+150",
+          "price": 450,
+          "visa": 16
+        },
+        {
+          "id": 41,
+          "name": "Multiple Long - Term Visa Over 90 Days - Bosnia and Herzegovina",
+          "description": "Multiple Long -term visa over 90 Days AED: 350 +150",
+          "price": 500,
+          "visa": 16
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Brunei",
+      "documents_required": "• Need passport valid for 6 months\r\n• Passport sized photograph/Image\r\n• Minimum 6 months’ bank statement\r\n• UAE residence/Employment visa\r\n• Proof travel including hotel accommodation + return air ticket\r\n• Valid travel insurance\r\n• Maybe additional documents required upon request.",
+      "description": "Visa Fee\r\n• Single-entry visa 55AED + 150\r\n• Multiple-entry visa 80AED +150\r\n\r\nPeriod: 4 to 8 working days\r\n\r\n(Note: Service charges & appointment booking charges(if any) by the respective VAC are excluded\r\nin the above prices mentioned)",
+      "tags": [],
+      "image": "/media/visaThumbnails/istockphoto-1131743616-612x612.jpg",
+      "price_categories": [
+        {
+          "id": 42,
+          "name": "Single-Entry Visa - Brunei",
+          "description": "Single-entry visa 55AED + 150",
+          "price": 205,
+          "visa": 17
+        },
+        {
+          "id": 43,
+          "name": "Multiple-Entry Visa - Brunei",
+          "description": "Multiple-entry visa 80AED +150\r\n\r\nPeriod: 4 to 8 working days",
+          "price": 230,
+          "visa": 17
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Japan",
+      "documents_required": "• Original Passport, Passport copy & UAE visa (Passport 6 month & Visa should be valid for 03 months)\r\n• 02 passport (size photos 5x6 white background)\r\n• NOC from the company.\r\n• Bank Statement original (last 6 month)\r\n• Flight & Hotel booking( can be arranged)",
+      "description": "Visa fees:\r\nSingle entry Visa AED 90+150\r\nDouble-entry or Multiple entry visa AED200 + 150\r\nTransit visa AED20+150\r\n\r\n(Note: Service charges & appointment booking charges(if any) by the respective VAC are excluded\r\nin the above prices mentioned. Charges are subject to change)",
+      "tags": [
+        {
+          "id": 1,
+          "name": "Latest",
+          "description": "sd",
+          "show_on_home": true
+        },
+        {
+          "id": 2,
+          "name": "Popular Destination",
+          "description": "Popular Destination",
+          "show_on_home": true
+        }
+      ],
+      "image": "/media/visaThumbnails/istockphoto-1131743616-612x612_sHPh94C.jpg",
+      "price_categories": [
+        {
+          "id": 44,
+          "name": "Single Entry Visa - Japan",
+          "description": "Single entry Visa AED 90+150",
+          "price": 240,
+          "visa": 18
+        },
+        {
+          "id": 45,
+          "name": "Double-Entry or Multiple Entry Visa - Japan",
+          "description": "Double-entry or Multiple entry visa AED200 + 150",
+          "price": 350,
+          "visa": 18
+        },
+        {
+          "id": 46,
+          "name": "Transit Visa - Japan",
+          "description": "Transit visa AED 20+150",
+          "price": 170,
+          "visa": 18
+        }
+      ]
+    }
+  ]

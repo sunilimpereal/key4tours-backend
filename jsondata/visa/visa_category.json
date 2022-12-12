@@ -1,0 +1,324 @@
+[
+    {
+      "id": 1,
+      "name": "5/10-year visa",
+      "description": "*Visa fees for\r\n• 5/10-year visa charges is AED 950 + 350",
+      "price": 950,
+      "visa": 1
+    },
+    {
+      "id": 2,
+      "name": "10-year visa",
+      "description": "10-year visa charges are AED 1100+200(USD180 for fingerprint once visa approved only",
+      "price": 1300,
+      "visa": 3
+    },
+    {
+      "id": 3,
+      "name": "06 months",
+      "description": "06 months visa is AED 500+350",
+      "price": 850,
+      "visa": 4
+    },
+    {
+      "id": 4,
+      "name": "02 years",
+      "description": "02 years",
+      "price": 2150,
+      "visa": 4
+    },
+    {
+      "id": 5,
+      "name": "05 years",
+      "description": "05 years visa charge is AED 3150+350",
+      "price": 3500,
+      "visa": 4
+    },
+    {
+      "id": 6,
+      "name": "10 years",
+      "description": "10 years visa charges is AED 4000+350",
+      "price": 4350,
+      "visa": 4
+    },
+    {
+      "id": 7,
+      "name": "Tourist/Business Visa - Single Entry (Indian)",
+      "description": "Tourist/Business Visa - Single Entry (Indian) 65AED +150",
+      "price": 115,
+      "visa": 5
+    },
+    {
+      "id": 8,
+      "name": "Tourist/Business Visa - Multi Entry (Indian)",
+      "description": "Tourist/Business Visa - Multi Entry (Indian) 200AED +150",
+      "price": 350,
+      "visa": 5
+    },
+    {
+      "id": 9,
+      "name": "Tourist/Business Visa - Single Entry (China)",
+      "description": "Tourist/Business Visa - Single Entry (China) 40AED +150",
+      "price": 190,
+      "visa": 5
+    },
+    {
+      "id": 10,
+      "name": "Tourist/Business Visa - Multi Entry (China)",
+      "description": "Tourist/Business Visa - Multi Entry (China) 80AED+150",
+      "price": 230,
+      "visa": 5
+    },
+    {
+      "id": 11,
+      "name": "Tourist/Business Visa - Single Entry (Other Nationality)",
+      "description": "Tourist/Business Visa - Single Entry (Other Nationality) 25AED +150",
+      "price": 175,
+      "visa": 5
+    },
+    {
+      "id": 12,
+      "name": "Tourist/Business Visa - Multi Entry (Other Nationality)",
+      "description": "Tourist/Business Visa - Multi Entry (Other Nationality) 50AED +150",
+      "price": 200,
+      "visa": 5
+    },
+    {
+      "id": 13,
+      "name": "Singapore",
+      "description": "Visa fees for\r\n• Visa Charges is AED 80 +150 (1 month)",
+      "price": 230,
+      "visa": 6
+    },
+    {
+      "id": 14,
+      "name": "Tourist Visa - single entry",
+      "description": "Visa Fees for\r\n• Online Appointment need to be taken before.\r\n\r\nTourist Visa - single entry 400AED +150",
+      "price": 550,
+      "visa": 7
+    },
+    {
+      "id": 15,
+      "name": "Tourist Visa - Multiple entries",
+      "description": "Tourist Visa - Multiple entries within 6 months 1000AED+150",
+      "price": 1150,
+      "visa": 7
+    },
+    {
+      "id": 16,
+      "name": "Non immigrant Visa - Single entry",
+      "description": "Non immigrant Visa - Single entry 800AED+150",
+      "price": 950,
+      "visa": 7
+    },
+    {
+      "id": 17,
+      "name": "Non immigrant Visa - Multiple entries",
+      "description": "Non immigrant Visa - Multiple entries within 1 year 1500AED+150",
+      "price": 1650,
+      "visa": 7
+    },
+    {
+      "id": 18,
+      "name": "Single Entry - China",
+      "description": "Single Entry 345AED +150",
+      "price": 495,
+      "visa": 8
+    },
+    {
+      "id": 19,
+      "name": "Double Entry - China",
+      "description": "Double Entry 413AED + 150",
+      "price": 563,
+      "visa": 8
+    },
+    {
+      "id": 20,
+      "name": "Multiple Entries - China",
+      "description": "Multiple Entries (6 Months) 480AED +150",
+      "price": 630,
+      "visa": 8
+    },
+    {
+      "id": 21,
+      "name": "Multiple Entries (12 Months) - China",
+      "description": "Multiple Entries (12 Months) 615AED +150",
+      "price": 765,
+      "visa": 8
+    },
+    {
+      "id": 22,
+      "name": "Visitor(1a & 1b) - Australia",
+      "description": "Visitor(1a & 1b) : AED400 + 300",
+      "price": 700,
+      "visa": 9
+    },
+    {
+      "id": 23,
+      "name": "Visitor (Frequent traveler stream) (1c) - Australia",
+      "description": "Visitor (Frequent traveler stream) (1c) : AED 2770 +300",
+      "price": 3070,
+      "visa": 9
+    },
+    {
+      "id": 24,
+      "name": "Visitor (Tourist stream only – Stay up to 1year) - Australia",
+      "description": "Visitor (Tourist stream only – Stay up to 1year) : AED 2670 +300",
+      "price": 3000,
+      "visa": 9
+    },
+    {
+      "id": 25,
+      "name": "Visitor visa - NZ",
+      "description": "Visitor visa 900AED + 300",
+      "price": 1200,
+      "visa": 10
+    },
+    {
+      "id": 26,
+      "name": "Business visa - Saudi",
+      "description": "Business visa AED: 400+150",
+      "price": 550,
+      "visa": 11
+    },
+    {
+      "id": 27,
+      "name": "Business Visa Multiple Entry - Saudi",
+      "description": "Business Visa Multiple Entry One Year AED: 400+150",
+      "price": 550,
+      "visa": 11
+    },
+    {
+      "id": 28,
+      "name": "Tourism - Saudi",
+      "description": "Tourism AED 400+150",
+      "price": 550,
+      "visa": 11
+    },
+    {
+      "id": 29,
+      "name": "Tourism Multiple Entry - Saudi",
+      "description": "Tourism Multiple Entry One Year AED 400+150",
+      "price": 550,
+      "visa": 11
+    },
+    {
+      "id": 30,
+      "name": "Tourism/Business – Turkey",
+      "description": "Tourism/Business – Single Entry AED 225 +150",
+      "price": 375,
+      "visa": 12
+    },
+    {
+      "id": 31,
+      "name": "Tourism/Business – Double Entry - Turkey",
+      "description": "Tourism/Business – Double Entry AED 450+150",
+      "price": 600,
+      "visa": 12
+    },
+    {
+      "id": 32,
+      "name": "Tourism/Business – Multiple Entry - Turkey",
+      "description": "Tourism/Business – Multiple Entry AED 700+150",
+      "price": 850,
+      "visa": 12
+    },
+    {
+      "id": 33,
+      "name": "Single entry visa - Ghana",
+      "description": "Single entry visa(3 months) AED: 600+200 (3 working days)",
+      "price": 800,
+      "visa": 13
+    },
+    {
+      "id": 34,
+      "name": "Multiple Entry Visa - Ghana",
+      "description": "Multiple entry visa(6 months) AED: 800+200",
+      "price": 1000,
+      "visa": 13
+    },
+    {
+      "id": 35,
+      "name": "Multiple Entry Visa (1 year) - Ghana",
+      "description": "Multiple entry visa (1 year) AED 1500 + 200",
+      "price": 1700,
+      "visa": 13
+    },
+    {
+      "id": 36,
+      "name": "Tourism/Business - South Africa",
+      "description": "Tourism/Business AED 250 + 150",
+      "price": 400,
+      "visa": 14
+    },
+    {
+      "id": 37,
+      "name": "Long term Visa - South Africa",
+      "description": "Long term Visa - Study visa/ visit visa dependent/Retired person visa AED 250+150",
+      "price": 400,
+      "visa": 14
+    },
+    {
+      "id": 38,
+      "name": "Long term Visa - General work permit - South Africa",
+      "description": "Long term Visa - General work permit AED 900+150",
+      "price": 1050,
+      "visa": 14
+    },
+    {
+      "id": 39,
+      "name": "Single-entry - Bosnia and Herzegovina",
+      "description": "Single-entry short-term visa AED: 150+150",
+      "price": 300,
+      "visa": 16
+    },
+    {
+      "id": 40,
+      "name": "Multiple Long - Bosnia and Herzegovina",
+      "description": "Multiple Long -term visa 90 Days AED: 300+150",
+      "price": 450,
+      "visa": 16
+    },
+    {
+      "id": 41,
+      "name": "Multiple Long - Term Visa Over 90 Days - Bosnia and Herzegovina",
+      "description": "Multiple Long -term visa over 90 Days AED: 350 +150",
+      "price": 500,
+      "visa": 16
+    },
+    {
+      "id": 42,
+      "name": "Single-Entry Visa - Brunei",
+      "description": "Single-entry visa 55AED + 150",
+      "price": 205,
+      "visa": 17
+    },
+    {
+      "id": 43,
+      "name": "Multiple-Entry Visa - Brunei",
+      "description": "Multiple-entry visa 80AED +150\r\n\r\nPeriod: 4 to 8 working days",
+      "price": 230,
+      "visa": 17
+    },
+    {
+      "id": 44,
+      "name": "Single Entry Visa - Japan",
+      "description": "Single entry Visa AED 90+150",
+      "price": 240,
+      "visa": 18
+    },
+    {
+      "id": 45,
+      "name": "Double-Entry or Multiple Entry Visa - Japan",
+      "description": "Double-entry or Multiple entry visa AED200 + 150",
+      "price": 350,
+      "visa": 18
+    },
+    {
+      "id": 46,
+      "name": "Transit Visa - Japan",
+      "description": "Transit visa AED 20+150",
+      "price": 170,
+      "visa": 18
+    }
+  ]

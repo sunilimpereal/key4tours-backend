@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "name": "Latest",
+      "description": "sd",
+      "show_on_home": true
+    },
+    {
+      "id": 2,
+      "name": "Popular Destination",
+      "description": "Popular Destination",
+      "show_on_home": true
+    }
+  ]

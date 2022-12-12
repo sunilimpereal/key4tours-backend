@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "uid": "2",
+      "holiday_package": []
+    },
+    {
+      "id": 2,
+      "uid": "3",
+      "holiday_package": []
+    },
+    {
+      "id": 3,
+      "uid": "5",
+      "holiday_package": []
+    },
+    {
+      "id": 4,
+      "uid": "6",
+      "holiday_package": []
+    }
+  ]

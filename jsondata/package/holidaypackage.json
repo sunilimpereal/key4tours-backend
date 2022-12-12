@@ -1,0 +1,702 @@
+[
+    {
+      "id": 3,
+      "name": "Armenia",
+      "country": "Yerevan,",
+      "location": "Yerevan, Armenia",
+      "description": "Yerevan,",
+      "durations": [
+        {
+          "id": 4,
+          "dec_name": "Armenia  3 Nights / 4 Days",
+          "itinerary": {
+            "id": 2,
+            "name": "Armenia  3 Nights / 4 Days",
+            "end_date": "2022-07-04T07:15:58Z",
+            "start_date": "2022-07-10T00:00:00Z",
+            "description": "Description",
+            "inclusions": "Accomodation in hotel 3 nights\t\t\t\r\nBreakfasts\t\t\t\r\nTransfer airport- hotel – airport\t\t\t\r\nSIC tours Garni, Geghard, “Lavash” making process and to Sevan, Dilijan\t\t\t\r\nEntry tickets",
+            "exclusions": "Air Fare\t\r\nTravel Insurance \t\r\nVisa\t\r\nExtra short walking city tour on day of arrival – 50 USD.\t\r\nCovid Test USD 55",
+            "amenities": [],
+            "days": []
+          },
+          "duration": "3 Nights / 4 Days",
+          "description": "Description",
+          "PriceCategory": [
+            {
+              "id": 2,
+              "dec_name": "Armenia  3 Nights / 4 Days",
+              "title": "3 Nights / 4 Days",
+              "stars": 4,
+              "description": "Description",
+              "one_adult": "350.00",
+              "two_adult": "290.00",
+              "three_adult": "275.00",
+              "child_add_price": "180.00"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "dec_name": "Armenia  4 Nights / 5 Days",
+          "itinerary": {
+            "id": 3,
+            "name": "Armenia  4 Nights / 5 Days",
+            "end_date": "2022-07-19T06:00:00Z",
+            "start_date": "2022-07-10T00:00:00Z",
+            "description": "Armenia  4 Nights / 5 Days",
+            "inclusions": "Accomodation in hotel 3 nights\t\t\t\t\t\r\nBreakfasts\t\t\t\t\t\r\nTransfer airport- hotel – airport\t\t\t\t\t\r\nSIC tours to Garni, Geghard, “Lavash” making process, Yerevan City Tour\t\t\t\t\t\r\nAreni with wine tasting, visit to Echmiadzin, Zvartnots\t\t\t\t\t\r\nvisit to Khor Virap, Noravank, Sevan Lake\t\t\t\t\t\r\nEntry tickets",
+            "exclusions": "Air Fare\t\t\t\t\r\nTravel Insurance \t\t\t\t\r\nVisa\t\t\t\t\r\nExtra short walking city tour on day of arrival – 50 USD.\t\t\t\t\r\nCovid Test USD 55",
+            "amenities": [],
+            "days": []
+          },
+          "duration": "4 Nights / 5 Days",
+          "description": "4 Nights / 5 Days",
+          "PriceCategory": [
+            {
+              "id": 3,
+              "dec_name": "Armenia  3 Nights / 4 Days  4* Holiday in or Smilar",
+              "title": "4* Holiday in or Smilar",
+              "stars": 4,
+              "description": "4* Holiday in or Smilar",
+              "one_adult": "425.00",
+              "two_adult": "335.00",
+              "three_adult": "315.00",
+              "child_add_price": "180.00"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "id": 2,
+          "name": "New packages",
+          "description": "dec",
+          "show_on_home": false
+        }
+      ],
+      "about": "Yerevan, Armenia",
+      "pdf": null,
+      "is_active": true,
+      "reviews": [],
+      "image1": "/media/Holiday%20Packages/Yerevan_2012_February.jfif",
+      "image2": "/media/Holiday%20Packages/Armania.jpg",
+      "image3": "/media/Holiday%20Packages/Hraparak_fountains02.jpg",
+      "image4": null,
+      "image5": null,
+      "image6": null
+    },
+    {
+      "id": 4,
+      "name": "Azerbaijan",
+      "country": "Baku",
+      "location": "Baku, Azerbaijan",
+      "description": "Baku, Azerbaijan",
+      "durations": [
+        {
+          "id": 6,
+          "dec_name": "Azerbaijan  4 Nights / 5 Days",
+          "itinerary": {
+            "id": 4,
+            "name": "Azerbaijan  4 Nigats / 5 Days",
+            "end_date": "2022-07-03T00:00:00Z",
+            "start_date": "2022-07-10T06:00:00Z",
+            "description": "Azerbaijan  4 Nigats / 5 Days",
+            "inclusions": "Accomodation in hotel 4 nights with BB\t\r\nTransfer airport- hotel – airport\t\r\nBaku city tour\t\r\nAbsheron peninsula Tour\t\r\nFull day trip Guba city'\t\r\nEntrance tickets (Gobustan, ateshgah, yanardag\t\r\nAll the local taxes and service fees\t\r\nEnglish speaking guide.",
+            "exclusions": "Air Fare\t\r\nTravel Insurance \t\r\nVisa\t\r\nCovid Test USD 75",
+            "amenities": [],
+            "days": []
+          },
+          "duration": "4 Nights / 5 Days",
+          "description": "Azerbaijan  4 Nights / 5 Days",
+          "PriceCategory": [
+            {
+              "id": 4,
+              "dec_name": "Azerbaijan  4 Nights / 5 Days 4* Aron Hotel",
+              "title": "4* Aron Hotel",
+              "stars": 4,
+              "description": "Azerbaijan  4 Nights / 5 Days 4* Aron Hotel",
+              "one_adult": "525.00",
+              "two_adult": "470.00",
+              "three_adult": "470.00",
+              "child_add_price": "180.00"
+            },
+            {
+              "id": 5,
+              "dec_name": "Azerbaijan  4 Nights / 5 Days 5* Fairmont Hotel",
+              "title": "5* Fairmont Hotel",
+              "stars": 5,
+              "description": "Description",
+              "one_adult": "1130.00",
+              "two_adult": "795.00",
+              "three_adult": "750.00",
+              "child_add_price": "250.00"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dec_name": "Azerbaijan 5 Nights / 6 Days",
+          "itinerary": {
+            "id": 5,
+            "name": "Azerbaijan 5 Nights / 6 Days",
+            "end_date": "2022-07-10T00:00:00Z",
+            "start_date": "2022-07-11T00:00:00Z",
+            "description": "Azerbaijan 5 Nights / 6 Days",
+            "inclusions": "Accomodation in hotel 5 nights with BB\t\t\t\t\t\r\n3 Nights in Baku// 2 Night in Gabala\t\t\t\t\t\r\nTransfer airport- hotel – airport\t\t\t\t\t\r\nvisit Alley of Martyrs, Highland Observation Sightseeing Park,\t\t\t\t\t\r\nCrystal Hall, Flame Towers, City Centre Fountain Square, Old City\t\t\t\t\t\r\nHeydar Aliyev Centre, Boulevard Seaside\t\t\t\t\t\r\nGabala tours with guide. Will visit Gabala City, Noghur Lake, Gabala Paradise Villages\t\t\t\t\t\r\nTufandagh Mountain SKI resort, cable ways, Disney Land, shooting centre, waterfalls, forest",
+            "exclusions": "Air Fare\t\r\nTravel Insurance \t\r\nVisa\t\r\nCovid Test USD 75",
+            "amenities": [],
+            "days": []
+          },
+          "duration": "5 Nights / 6 Days",
+          "description": "Azerbaijan 5 Nights / 6 Days",
+          "PriceCategory": [
+            {
+              "id": 6,
+              "dec_name": "Azerbaijan 5 Nights / 6 Days  4* Sapphire & Qafaq",
+              "title": "4* Sapphire & Qafaq",
+              "stars": 4,
+              "description": "Azerbaijan 5 Nights / 6 Days  4* Sapphire & Qafaq",
+              "one_adult": "900.00",
+              "two_adult": "580.00",
+              "three_adult": "580.00",
+              "child_add_price": "180.00"
+            },
+            {
+              "id": 7,
+              "dec_name": "Azerbaijan 5 Nights / 6 Days 5* Theatrum & Qafaq riverside",
+              "title": "5* Theatrum & Qafaq riverside",
+              "stars": 5,
+              "description": "Description",
+              "one_adult": "1050.00",
+              "two_adult": "655.00",
+              "three_adult": "655.00",
+              "child_add_price": "250.00"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "id": 2,
+          "name": "New packages",
+          "description": "dec",
+          "show_on_home": false
+        },
+        {
+          "id": 3,
+          "name": "Top Trending",
+          "description": "Top Trending",
+          "show_on_home": true
+        }
+      ],
+      "about": "Baku, Azerbaijan",
+      "pdf": null,
+      "is_active": true,
+      "reviews": [],
+      "image1": "/media/Holiday%20Packages/Azerbaijan-Tourism-min-1024x540.jpg",
+      "image2": "/media/Holiday%20Packages/BAKU.png",
+      "image3": null,
+      "image4": null,
+      "image5": null,
+      "image6": null
+    },
+    {
+      "id": 5,
+      "name": "Bulgaria",
+      "country": "Sofia",
+      "location": "Sofia , Bulgaria",
+      "description": "Sofia , Bulgaria",
+      "durations": [
+        {
+          "id": 8,
+          "dec_name": "Bulgaria 4 Nights / 5 Days",
+          "itinerary": {
+            "id": 6,
+            "name": "Bulgaria 4 Nights / 5 Days",
+            "end_date": "2022-07-04T00:00:00Z",
+            "start_date": "2022-07-11T00:00:00Z",
+            "description": "Sofia , Bulgaria",
+            "inclusions": "Accomodation in hotel 4 nights with BB\t\t\r\nBreakfast\t\t\r\nTransfer airport- hotel – airport\t\t\r\nCity tour of Sofia, Pancherevo lake and waterfall  with Arabic/English driver\t\t\r\nTrip and Transfer to Vitosha mountain with telefric tickets\t\t\r\n Transfer Selected hotel –Airport Sofia\t\t\r\nEnglish speaking driver all the time of Tours",
+            "exclusions": "Air Fare\t\r\nTravel Insurance \t\r\nVisa\t\r\nCovid Test USD 75",
+            "amenities": [],
+            "days": []
+          },
+          "duration": "4 Nights / 5 Days",
+          "description": "4 Nights / 5 Days",
+          "PriceCategory": [
+            {
+              "id": 9,
+              "dec_name": "Bulgaria 4 Nights / 5 Days 4* Rosslyn Central park or Similar",
+              "title": "4* Rosslyn Central park or Similar",
+              "stars": 4,
+              "description": "4* Rosslyn Central park or Similar",
+              "one_adult": "425.00",
+              "two_adult": "290.00",
+              "three_adult": "250.00",
+              "child_add_price": "250.00"
+            },
+            {
+              "id": 10,
+              "dec_name": "Bulgaria 4 Nights / 5 Days  5* Marinela or Similar",
+              "title": "5* Marinela or Similar",
+              "stars": 5,
+              "description": "Description",
+              "one_adult": "445.00",
+              "two_adult": "300.00",
+              "three_adult": "265.00",
+              "child_add_price": "260.00"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "dec_name": "Bulgaria 5 Nights / 6 Days",
+          "itinerary": {
+            "id": 7,
+            "name": "Bulgaria 5 Nights / 6 Days",
+            "end_date": "2022-07-31T07:43:25Z",
+            "start_date": "2022-07-17T07:43:23Z",
+            "description": "Sofia , Bulgaria",
+            "inclusions": "Accomodation in hotel 5 nights with BB\t\t\t\t\t\r\nBreakfast\t\t\t\t\t\r\nTransfer airport- hotel – airport\t\t\t\t\t\r\nCity tour of Sofia, Pancherevo lake and waterfall  with Arabic/English driver\t\t\t\t\t\r\nTrip and Transfer to Vitosha mountain with telefric tickets\t\t\t\t\t\r\n Transfer Selected hotel –Airport Sofia\t\t\t\t\t\r\nEnglish speaking driver all the time of Tours\t\t\t\t\t\r\nTrip and transfer to Kostenec waterfall and city of Plovdiv",
+            "exclusions": "Air Fare\t\r\nTravel Insurance \t\r\nVisa\t\r\nCovid Test USD 75",
+            "amenities": [],
+            "days": []
+          },
+          "duration": "5 Nights / 6 Days",
+          "description": "5 Nights / 6 Days",
+          "PriceCategory": [
+            {
+              "id": 11,
+              "dec_name": "Bulgaria 5 Nights / 6 Days 4* Rosslyn Central park or Similar",
+              "title": "4* Rosslyn Central park or Similar",
+              "stars": 4,
+              "description": "4* Rosslyn Central park or Similar",
+              "one_adult": "595.00",
+              "two_adult": "385.00",
+              "three_adult": "346.00",
+              "child_add_price": "320.00"
+            },
+            {
+              "id": 12,
+              "dec_name": "Bulgaria 5 Nights / 6 Days 5* Marinela or Similar",
+              "title": "5* Marinela or Similar",
+              "stars": 5,
+              "description": "5* Marinela or Similar",
+              "one_adult": "620.00",
+              "two_adult": "397.00",
+              "three_adult": "346.00",
+              "child_add_price": "350.00"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "id": 2,
+          "name": "New packages",
+          "description": "dec",
+          "show_on_home": false
+        }
+      ],
+      "about": "Sofia , Bulgaria",
+      "pdf": null,
+      "is_active": true,
+      "reviews": [],
+      "image1": "/media/Holiday%20Packages/Sofia-Bulgaria-Cathedral-1.jpeg",
+      "image2": "/media/Holiday%20Packages/Sofia-Bulgaria.jpg",
+      "image3": "/media/Holiday%20Packages/85.jpg",
+      "image4": null,
+      "image5": null,
+      "image6": null
+    },
+    {
+      "id": 6,
+      "name": "Belarus",
+      "country": "Minsq",
+      "location": "Minsq , Belarus",
+      "description": "Minsq , Belarus",
+      "durations": [
+        {
+          "id": 10,
+          "dec_name": "Belarus 4 Nights / 5 Days",
+          "itinerary": {
+            "id": 8,
+            "name": "Belarus 4 Nights / 5 Days",
+            "end_date": "2022-07-31T07:52:36Z",
+            "start_date": "2022-07-31T07:52:37Z",
+            "description": "Belarus 4 Nights / 5 Days",
+            "inclusions": "Accomodation in hotel 4 nights with BB\t\t\t\t\t\r\nBreakfast\t\t\t\t\t\r\nTransfer airport- hotel – airport\t\t\t\t\t\r\nEntrance fees and excursion: Minsk city tour, degustation at Komarovski market\t\t\t\t\t\r\nBelaz factory with firm souvenir, Mir Castle, Nesvizh Palace with animated performance\t\t\t\t\t\r\nSula complex with animated excursion and drakara riding, traditional lunch with excursion at the farmstead,\t\t\t\t\t\r\nEnglish-speaking guide per program \t\t\t\t\t\r\nTransport services per program (2 pax – sedan (Mercedes), 4-6 pax – Mercedes Viano, 8-15 pax – Mercedes Sprinter)\t\t\t\r\n§  Folk show with dancing master class at the farmstead: 120 USD per the group\t\t\t\r\n§  Track riding 49 USD per pax",
+            "exclusions": "Air Fare\t\r\nTravel Insurance \t\r\nVisa\t\r\nCovid Test USD 75",
+            "amenities": [],
+            "days": []
+          },
+          "duration": "4 Nights / 5 Days",
+          "description": "4 Nights / 5 Days",
+          "PriceCategory": [
+            {
+              "id": 13,
+              "dec_name": "Belarus 4 Nights / 5 Days 3* Belarus Hotel or similar",
+              "title": "3* Belarus Hotel or similar",
+              "stars": 3,
+              "description": "Belarus 4 Nights / 5 Days 3* Belarus Hotel or similar",
+              "one_adult": "715.00",
+              "two_adult": "668.00",
+              "three_adult": "668.00",
+              "child_add_price": "0.00"
+            },
+            {
+              "id": 14,
+              "dec_name": "Belarus 4 Nights / 5 Days 4* Minsk Hotel or Similar",
+              "title": "4* Minsk Hotel or Similar",
+              "stars": 4,
+              "description": "Belarus 4 Nights / 5 Days 4* Minsk Hotel or Similar",
+              "one_adult": "775.00",
+              "two_adult": "707.00",
+              "three_adult": "707.00",
+              "child_add_price": "0.00"
+            },
+            {
+              "id": 15,
+              "dec_name": "Belarus 4 Nights / 5 Days  5* Crown Plaza hotel or Similar",
+              "title": "5* Crown Plaza hotel or Similar",
+              "stars": 5,
+              "description": "Belarus 4 Nights / 5 Days  5* Crown Plaza hotel or Similar",
+              "one_adult": "856.00",
+              "two_adult": "785.00",
+              "three_adult": "785.00",
+              "child_add_price": "0.00"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "id": 2,
+          "name": "New packages",
+          "description": "dec",
+          "show_on_home": false
+        },
+        {
+          "id": 3,
+          "name": "Top Trending",
+          "description": "Top Trending",
+          "show_on_home": true
+        }
+      ],
+      "about": "About",
+      "pdf": null,
+      "is_active": true,
+      "reviews": [],
+      "image1": "/media/Holiday%20Packages/shutterstock_776828326.jpg",
+      "image2": "/media/Holiday%20Packages/lakes_and_forest_belarus.jpg",
+      "image3": null,
+      "image4": null,
+      "image5": null,
+      "image6": null
+    },
+    {
+      "id": 7,
+      "name": "Egypt",
+      "country": "Cairo",
+      "location": "Cairo, Egypt",
+      "description": "Cairo, Egypt",
+      "durations": [
+        {
+          "id": 11,
+          "dec_name": "Egypt 4 Nights / 5 Days",
+          "itinerary": {
+            "id": 9,
+            "name": "Egypt 4 Nights / 5 Days",
+            "end_date": "2022-07-31T08:00:45Z",
+            "start_date": "2022-07-31T08:00:43Z",
+            "description": "Egypt 4 Nights / 5 Days",
+            "inclusions": "Accomodation in hotel 4 nights with BB\t\r\nTransfer airport- hotel – airport\t\r\nFull day visit to Giza pyramid and .\t\r\nSphinx saqqara zoser pyramid area with english speaking guide\t\r\nFull day tour to visit the Citadel with Mohamed Ali Mosque\t\r\nEgyptian Museum and Khan El Khalil Bazaars \t\r\nDrive to Alexandria by a private vehicle around\t\r\n03 hours per one way visit catacomb, Romanian theatre and Qaitbay citadel",
+            "exclusions": "Internation and domestic tickets\t\r\nTravel Insurance \t\r\nVisa to Egypt\t\r\nEntry of solar boat Museum = 10.00 USD per person\t\r\nEntry of Cheops Pyramid = 25.00 USD per person \t\r\nThe entrance of mummies room in the Egyptian Museum = 14.00 USD per person \t\r\nAll tipping for guide, drivers, representatives, restaurants, cruise \t\r\nCovid test USD70/-",
+            "amenities": [],
+            "days": []
+          },
+          "duration": "4 Nights / 5 Days",
+          "description": "Egypt 4 Nights / 5 Days",
+          "PriceCategory": [
+            {
+              "id": 16,
+              "dec_name": "Egypt 4 Nights / 5 Days 4* Ramous Hotel or Similar",
+              "title": "4* Ramous Hotel or Similar",
+              "stars": 4,
+              "description": "Description",
+              "one_adult": "615.00",
+              "two_adult": "495.00",
+              "three_adult": "485.00",
+              "child_add_price": "375.00"
+            },
+            {
+              "id": 17,
+              "dec_name": "Egypt 4 Nights / 5 Days 5* Kempenski hotel or Similar",
+              "title": "5* Kempenski hotel or Similar",
+              "stars": 5,
+              "description": "Egypt 4 Nights / 5 Days 5* Kempenski hotel or Similar",
+              "one_adult": "615.00",
+              "two_adult": "495.00",
+              "three_adult": "485.00",
+              "child_add_price": "375.00"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "id": 3,
+          "name": "Top Trending",
+          "description": "Top Trending",
+          "show_on_home": true
+        }
+      ],
+      "about": "Egypt",
+      "pdf": null,
+      "is_active": true,
+      "reviews": [],
+      "image1": "/media/Holiday%20Packages/a431afa6-3a7a-424a-8346-f1a54d4d93f8-2a463c47-2fec-44cd-be59-df469f44a0_s83NSqY.jpg",
+      "image2": "/media/Holiday%20Packages/Downtown-Cairo-Zamalek-the-Nile-river.jpg",
+      "image3": "/media/Holiday%20Packages/20161219-112125-largejpg.jpg",
+      "image4": null,
+      "image5": null,
+      "image6": null
+    },
+    {
+      "id": 8,
+      "name": "Dubai",
+      "country": "UAE",
+      "location": "Dubai",
+      "description": "Dubai , UAE",
+      "durations": [
+        {
+          "id": 12,
+          "dec_name": "Dubai  3 Nights / 4 Days",
+          "itinerary": {
+            "id": 10,
+            "name": "Dubai  3 Nights / 4 Days",
+            "end_date": "2022-09-20T12:01:41Z",
+            "start_date": "2022-09-20T12:01:40Z",
+            "description": "Description",
+            "inclusions": "3Nights /4 Days hotel stay with BB\t\t\t\r\nReturn Airport Transport\t\t\t\r\nHalf a day Dubai City Tour \t\t\t\r\nDhow Cruise Dinner\t\t\t\r\nDesert safari with BBQ Dinner\t\t\t\r\nBurj Khalifa at the Top\t\t\t\r\nTourism fees \t\t\t\r\n5% Vat\t\t\t\r\nAll the taxes and service fees\t\t\t\r\nAll tours & Transfers on Sharing/Private\t\t\t\r\nDriver cum tour Guide",
+            "exclusions": "Air tickets\t\t\t\r\nMeal other than mentioned above\t\t\t\r\nPersonal expenses like laundry , telephone etc\t\t\t\r\nExtra Tours if any\t\t\t\r\nUAE Visa with Travel Insurance\t\t\t\r\nSanitization cost to Hotel if tested covid19 positive",
+            "amenities": [],
+            "days": [
+              {
+                "id": 2,
+                "day": "day1",
+                "title": "day1",
+                "subtitle1": "Subtitle1",
+                "subtitle2": "Subtitle2",
+                "description1": "Arrival\r\nHotel\r\nDhow Cruise Creek",
+                "description2": "",
+                "image": "/media/Itenary%20Images/dubail.jpg",
+                "itinerary": 10
+              },
+              {
+                "id": 3,
+                "day": "Dubai  day 2",
+                "title": "day 2",
+                "subtitle1": "Subtitle1",
+                "subtitle2": "heading 2",
+                "description1": "Half Day Dubai City Tour\r\nBurj Khalifa 124th Floor Non-Prime time\r\nDubai Mall + Musical Fountain Show + Laser Show on Burj khalifa",
+                "description2": "",
+                "image": "/media/Itenary%20Images/dubail_g2C67NN.jpg",
+                "itinerary": 10
+              },
+              {
+                "id": 4,
+                "day": "Dubai day 3",
+                "title": "day 3",
+                "subtitle1": "Subtitle1",
+                "subtitle2": "Subtitle2",
+                "description1": "Morning Free\r\nRed Dune Desert Safari + Live Entertainment + BBQ Dinner",
+                "description2": "",
+                "image": "/media/Itenary%20Images/images.jfif",
+                "itinerary": 10
+              },
+              {
+                "id": 5,
+                "day": "Dubai  day 4",
+                "title": "day 4",
+                "subtitle1": "Subtitle1",
+                "subtitle2": "Subtitle2",
+                "description1": "Departure",
+                "description2": "",
+                "image": "/media/Itenary%20Images/images_B9sLXPV.jfif",
+                "itinerary": 10
+              }
+            ]
+          },
+          "duration": "3 Nights / 4 Days",
+          "description": "3 Nights / 4 Days",
+          "PriceCategory": [
+            {
+              "id": 18,
+              "dec_name": "Dubai   3 Nights / 4 Days  3* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "title": "3* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "stars": 5,
+              "description": "3* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "one_adult": "283.00",
+              "two_adult": "263.00",
+              "three_adult": "263.00",
+              "child_add_price": "140.00"
+            },
+            {
+              "id": 19,
+              "dec_name": "Dubai  3 Nights / 4 Days 4* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "title": "4* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "stars": 4,
+              "description": "4* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "one_adult": "307.00",
+              "two_adult": "288.00",
+              "three_adult": "288.00",
+              "child_add_price": "150.00"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dec_name": "Dubai 4 Nights / 5 Days",
+          "itinerary": {
+            "id": 11,
+            "name": "Dubai 4 Nights / 5 Days",
+            "end_date": "2022-09-20T12:23:16Z",
+            "start_date": "2022-09-20T12:23:17Z",
+            "description": "Dubai 4 Nights / 5 Days",
+            "inclusions": "4Nights /5Days hotel stay with BB\r\nReturn Airport Transport\r\nHalf a day Dubai City Tour \r\nAbu Dhabi City Tour + Sheikh Zayed Mosque\r\nDhow Cruise Dinner\r\nDesert safari with BBQ Dinner\r\nBurj Khalifa at the Top\r\nTourism fees \r\n5% Vat\r\nAll the taxes and service fees\r\nAll tours & Transfers on Sharing/Private\r\nDriver cum tour Guide",
+            "exclusions": "Air tickets\t\t\t\r\nMeal other than mentioned above\t\t\t\r\nPersonal expenses like laundry , telephone etc\t\t\t\r\nExtra Tours if any\t\t\t\r\nUAE Visa with Travel Insurance\t\t\t\r\nSanitization cost to Hotel if tested covid19 positive",
+            "amenities": [],
+            "days": []
+          },
+          "duration": "4 Nights / 5 Days",
+          "description": "4 Nights / 5 Days",
+          "PriceCategory": [
+            {
+              "id": 20,
+              "dec_name": "Dubai 4 Nights / 5 Days 3* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "title": "3* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "stars": 3,
+              "description": "3* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "one_adult": "334.00",
+              "two_adult": "356.00",
+              "three_adult": "356.00",
+              "child_add_price": "175.00"
+            },
+            {
+              "id": 21,
+              "dec_name": "Dubai 4 Nights / 5 Days  4* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "title": "4* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "stars": 4,
+              "description": "Description",
+              "one_adult": "367.00",
+              "two_adult": "356.00",
+              "three_adult": "356.00",
+              "child_add_price": "156.00"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "dec_name": "Dubai 5 Nights / 6 Days",
+          "itinerary": {
+            "id": 12,
+            "name": "Dubai 5 Nights / 6 Days",
+            "end_date": "2022-09-21T06:24:23Z",
+            "start_date": "2022-09-21T06:24:22Z",
+            "description": "Dubai 5 Nights / 6 Days",
+            "inclusions": "5Nights /6Days hotel stay with BB\r\nReturn Airport Transport\r\nHalf a day Dubai City Tour \r\nAbu Dhabi City Tour + Sheikh Zayed Mosque\r\nAqua-Venture & Lost Chamber at The Palm Island\r\nDhow Cruise Dinner\r\nDesert safari with BBQ Dinner\r\nBurj Khalifa at the Top\r\nTourism fees \r\n5% Vat\r\nAll the taxes and service fees\r\nAll tours & Transfers on Sharing/Private\r\nDriver cum tour Guide",
+            "exclusions": "Air tickets\t\t\t\r\nMeal other than mentioned above\t\t\t\r\nPersonal expenses like laundry , telephone etc\t\t\t\r\nExtra Tours if any\t\t\t\r\nUAE Visa with Travel Insurance\t\t\t\r\nSanitization cost to Hotel if tested covid19 positive",
+            "amenities": [],
+            "days": []
+          },
+          "duration": "5 Nights / 6 Days",
+          "description": "5 Nights / 6 Days",
+          "PriceCategory": [
+            {
+              "id": 22,
+              "dec_name": "Dubai 5 Nights / 6 Days 3* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "title": "3* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "stars": 3,
+              "description": "3* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "one_adult": "459.00",
+              "two_adult": "482.00",
+              "three_adult": "482.00",
+              "child_add_price": "225.00"
+            },
+            {
+              "id": 23,
+              "dec_name": "Dubai 5 Nights / 6 Days 4* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "title": "4* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "stars": 4,
+              "description": "4* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "one_adult": "499.00",
+              "two_adult": "482.00",
+              "three_adult": "482.00",
+              "child_add_price": "245.00"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "dec_name": "Dubai  6 Nights / 7 Days",
+          "itinerary": {
+            "id": 13,
+            "name": "Dubai  6 Nights / 7 Days",
+            "end_date": "2022-09-21T06:31:18Z",
+            "start_date": "2022-09-21T06:31:16Z",
+            "description": "Dubai  6 Nights / 7 Days",
+            "inclusions": "5Nights /6Days hotel stay with BB\r\n1Nights /2Days hotel in Abu Dhabi Hotel with park access with BB\r\nReturn Airport Transport\r\nHalf a day Dubai City Tour \r\nAbu Dhabi City Tour + Sheikh Zayed Mosque\r\nAqua-Venture & Lost Chamber at The Palm Island\r\nSKI Dubai at Mall of The Emirates\r\nDhow Cruise Dinner\r\nDesert safari with BBQ Dinner\r\nBurj Khalifa at the Top\r\nTourism fees \r\n5% Vat\r\nAll the taxes and service fees\r\nAll tours & Transfers on Sharing/Private\r\nDriver cum tour Guide",
+            "exclusions": "Air tickets\t\t\t\r\nMeal other than mentioned above\t\t\t\r\nPersonal expenses like laundry , telephone etc\t\t\t\r\nExtra Tours if any\t\t\t\r\nUAE Visa with Travel Insurance\t\t\t\r\nSanitization cost to Hotel if tested covid19 positive",
+            "amenities": [],
+            "days": []
+          },
+          "duration": "6 Nights / 7 Days",
+          "description": "6 Nights / 7 Days",
+          "PriceCategory": [
+            {
+              "id": 24,
+              "dec_name": "Dubai  6 Nights / 7 Days",
+              "title": "3* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "stars": 3,
+              "description": "3* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "one_adult": "655.00",
+              "two_adult": "674.00",
+              "three_adult": "674.00",
+              "child_add_price": "300.00"
+            },
+            {
+              "id": 25,
+              "dec_name": "Dubai  6 Nights / 7 Days 4* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "title": "4* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "stars": 4,
+              "description": "4* Hotel - 3N/4D  - Rates based on 4 Pax in USD",
+              "one_adult": "696.00",
+              "two_adult": "715.00",
+              "three_adult": "715.00",
+              "child_add_price": "350.00"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "id": 2,
+          "name": "New packages",
+          "description": "dec",
+          "show_on_home": false
+        }
+      ],
+      "about": "Dubai , UAE",
+      "pdf": null,
+      "is_active": true,
+      "reviews": [],
+      "image1": "/media/Holiday%20Packages/istockphoto-1266923176-612x612.jpg",
+      "image2": "/media/Holiday%20Packages/photo-1518684079-3c830dcef090.jfif",
+      "image3": "/media/Holiday%20Packages/istockphoto-1266923176-612x612_pzpWM1t.jpg",
+      "image4": "/media/Holiday%20Packages/istockphoto-1266923176-612x612_nY48oJU.jpg",
+      "image5": null,
+      "image6": null
+    }
+  ]

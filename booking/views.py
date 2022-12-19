@@ -10,7 +10,7 @@ from booking.models import HolidayBooking
 from booking.serializers import BookHolidayBookingSerializer, HolidayBookingSerializer, PersonSerializer, RoomSerializer
 import stripe
 # Create your views here.
-stripe.api_key = "sk_test_51MDStSSJ0SDJcHzTqXaYySr8qqaRL9yx0ldRg9wDAJwYIUqZ04rjzlj9XF5jOvw3gqncC2eeVnvC1XuWn5utdB8900bnplTmvX"
+stripe.api_key = "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"
 
 # to get holiday details for home screen
 class HolidayBookingView(APIView):
@@ -65,13 +65,23 @@ class CreatePaymentSessionView(APIView):
                 success_url=YOUR_DOMAIN + '/success.html',
                 cancel_url=YOUR_DOMAIN + '/cancel.html',
             )
-            response = {'session_id':checkout_session.id,'session_url':checkout_session.url }
+            response = {'session_id':checkout_session.id,'payment_intent':checkout_session.payment_intent,'session_url':checkout_session.url }
             return Response(response, status=status.HTTP_200_OK)
         except Exception as e:
             response = {'session_error':str(e) }
             return Response(response, status=status.HTTP_500_INTERNAL_SERVER_ERROR )
 
     # return redirect(checkout_session.url, code=303)
+        
+class PaymentSessionSucessView(APIView):
+    def get(self,request, bookingid,sessionid, format=None):
+        holidayBookingObject = HolidayBooking.objects.filter(id=bookingid)
+        holidayBookingObject.payment_id = sessionid
+        holidayBookingObject.save()
+        response = {'session_id':sessionid,'booking_id':bookingid }
+        return Response(response, status=status.HTTP_200_OK)
+        
+        
         
 
 

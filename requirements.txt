@@ -7,7 +7,7 @@ requests
 djangorestframework-simplejwt
 django-cors-headers
 django-dotenv
-numpy
+numpy   
 pillow
 html5lib
 Drf-writable-nested

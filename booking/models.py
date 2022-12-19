@@ -9,7 +9,7 @@ from package.models import Duration, HolidayPackage, PriceCategory
 
 
 class HolidayBooking(models.Model):
-    id                = models.AutoField(primary_key=True)
+    id                = models.AutoField(primary_key=True,serialize=True)
     number            = models.CharField(max_length=255)
     selected_duration = models.ForeignKey(Duration, on_delete=models.CASCADE)
     selected_category = models.ForeignKey(PriceCategory, on_delete=models.CASCADE)

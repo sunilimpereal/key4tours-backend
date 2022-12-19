@@ -56,6 +56,7 @@ class HolidayBookingSerializer(serializers.ModelSerializer):
             'payment_id',
             'start_date',
             'end_date',
+            'grand_total'
         ]
 
 
